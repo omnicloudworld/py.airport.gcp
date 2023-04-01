@@ -23,7 +23,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.10"
-omnicloud-airport = "^0.0.1rc7"
+omnicloud-airport = "^0.0.1"
 google-cloud-storage = "^2.7.0"
 
 
